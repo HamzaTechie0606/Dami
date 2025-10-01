@@ -1,3 +1,4 @@
 # Hi There
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Skill Stacks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,nodejs,tailwind,bootstrap,react,github)](https://skillicons.dev)
